@@ -2,6 +2,7 @@
 
 JSON FORMAT :
 
+```
 {
   "name": "John Doe",
   "contact": {
@@ -100,7 +101,7 @@ JSON FORMAT :
     }
   ]
 }
-
+```
 
 # Iteration Methods :
 Below are examples of how to iterate over this JSON structure using different loops.
