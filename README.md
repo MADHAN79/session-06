@@ -106,6 +106,7 @@ JSON FORMAT :
 # Iteration Methods :
 Below are examples of how to iterate over this JSON structure using different loops.
 
+```
 ## 1. for loop
 
 const resume = /* the JSON object above */;
@@ -133,3 +134,4 @@ for (let project of resume.projects) {
 resume.experience.forEach((job) => {
   console.log(`Company: ${job.company}, Position: ${job.position}`);
 });
+```
