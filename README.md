@@ -4,13 +4,13 @@ JSON FORMAT :
 
 ```
 {
-  "name": "John Doe",
+  "name": "MADHAN",
   "contact": {
-    "email": "johndoe@example.com",
+    "email": "madhan@gmail.com",
     "phone": "+1234567890",
-    "address": "123 Developer St, Tech City, USA",
-    "linkedIn": "https://linkedin.com/in/johndoe",
-    "github": "https://github.com/johndoe"
+    "address": "123 Developer St, Bangalore, India",
+    "linkedIn": "https://linkedin.com/in/madhan",
+    "github": "https://github.com/madhan"
   },
   "summary": "Full Stack MERN Developer with 5+ years of experience in building scalable web applications and APIs. Expertise in React, Node.js, Express, and MongoDB. Passionate about creating efficient solutions and working on innovative projects.",
   "skills": {
@@ -53,14 +53,14 @@ JSON FORMAT :
       "description": "Built a fully functional e-commerce platform with features such as user authentication, product management, and payment integration.",
       "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "Stripe"],
       "role": "Full Stack Developer",
-      "github": "https://github.com/johndoe/ecommerce-platform"
+      "github": "https://github.com/madhan/ecommerce-platform"
     },
     {
       "name": "Task Management App",
       "description": "Developed a task management app to help teams track and manage their tasks efficiently.",
       "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "JWT"],
       "role": "Frontend & Backend Developer",
-      "github": "https://github.com/johndoe/task-manager"
+      "github": "https://github.com/madhan/task-manager"
     },
     {
       "name": "Blog Website",
@@ -74,30 +74,30 @@ JSON FORMAT :
       "description": "Designed a personal portfolio website to showcase my work and projects.",
       "technologies": ["React.js", "HTML", "CSS", "Tailwind CSS"],
       "role": "Frontend Developer",
-      "github": "https://github.com/johndoe/portfolio-website"
+      "github": "https://github.com/madhan/portfolio-website"
     },
     {
       "name": "Real-Time Chat Application",
       "description": "Built a real-time chat application using WebSocket for seamless communication between users.",
       "technologies": ["React.js", "Node.js", "Express.js", "Socket.IO"],
       "role": "Full Stack Developer",
-      "github": "https://github.com/johndoe/chat-app"
+      "github": "https://github.com/madhan/chat-app"
     }
   ],
   "education": {
     "degree": "Bachelor of Science in Computer Science",
     "institution": "Tech University",
-    "graduationYear": 2017
+    "graduationYear": 2023
   },
   "certifications": [
     {
       "name": "AWS Certified Solutions Architect",
-      "date": "July 2020"
+      "date": "July 2024"
     },
     {
       "name": "Full Stack Web Development Certificate",
       "institution": "Coursera",
-      "date": "May 2019"
+      "date": "May 2024"
     }
   ]
 }
